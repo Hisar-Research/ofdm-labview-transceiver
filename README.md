@@ -1,2 +1,2 @@
 # ofdm-labview-transceiver
-This repo contains progress towards OFDM transceiver design for video transmission 
+The general information about the project and a guide for other collaborators/users should be given here. 
